@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=GENERAL.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=GENERAL.SchDoc|Designator=MODULE|SchDesignator=MODULE|FileName=MODULE_SCH.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=MODULE_SCH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=GENERAL.SchDoc|Designator=PRINCIPAL|SchDesignator=PRINCIPAL|FileName=PRINCIPAL_SCH.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PRINCIPAL_SCH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
